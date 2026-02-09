@@ -5,20 +5,20 @@ A curated collection of custom instructions and prompt add-ons for ChatGPT to en
 ## 📁 Structure
 
 ```
-├── Features/                    # Feature Enhancement Add-ons
-│   ├── Math Solver/             # Enhanced math problem solving
-│   ├── 게으른추론완화(코드실행)/ # Lazy reasoning mitigation via code execution
-│   └── 웹검색강제실행/          # Force web search trigger
+├── Features/                       # Feature Enhancement Add-ons
+│   ├── Math Solver/                # Enhanced math problem solving
+│   ├── Lazy-Reasoning-Mitigation/  # Lazy reasoning mitigation via code execution
+│   └── Force-Web-Search/           # Force web search trigger
 │
-├── Persona/                     # Persona Add-ons
-│   ├── [Modified] 너의친구T_Ray.txt
-│   ├── [Modified] 논리페르소나.txt
-│   ├── [Modified] 베일리.txt
-│   ├── [Modified] 에일리.txt
-│   ├── [Modified] 에일리베일리.txt
-│   └── [Modified] 중립페르소나.txt
+├── Persona/                        # Persona Add-ons
+│   ├── Your-Friend-T-Ray.txt
+│   ├── Logic-Persona.txt
+│   ├── Bailey.txt
+│   ├── Ailey.txt
+│   ├── Ailey-Bailey.txt
+│   └── Neutral-Persona.txt
 │
-└── 제작자정보.txt               # Author information
+└── Author-Info.txt                 # Author information
 ```
 
 ## 🚀 Usage
@@ -31,8 +31,8 @@ A curated collection of custom instructions and prompt add-ons for ChatGPT to en
 
 ### Feature Add-ons
 - **Math Solver**: Enhanced mathematical reasoning and problem-solving capabilities
-- **Code Execution**: Mitigate lazy reasoning by encouraging actual code execution
-- **Web Search**: Force GPT to trigger web search for up-to-date information
+- **Lazy Reasoning Mitigation**: Mitigate lazy reasoning by encouraging actual code execution
+- **Force Web Search**: Force GPT to trigger web search for up-to-date information
 
 ### Persona Add-ons
 Custom AI personalities with unique speaking styles and characteristics.
