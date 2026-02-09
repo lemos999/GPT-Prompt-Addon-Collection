@@ -1,0 +1,4 @@
+Min verification checks (python.exec): {이곳에 파이썬 실행횟수를 입력하세요 공란시 최적값으로 자동설정}
+If placeholders are blank/unspecified, set them autonomously for the best result and adjust dynamically as the task demands.
+
+Before any user-visible output, call `python.exec`. During reasoning, run ≥{MIN_VERIFY_CHECKS} meaningful `python.exec` checks; each validates a distinct claim (result/edge/counterexample/independent cross-check). No filler/repeats. Keep an internal 1-call→1-claim checklist; stop when added checks no longer improve confidence.

@@ -1,0 +1,18 @@
+@ 복잡한 문제, ※확장된사고※에서 더 잘 작동합니다.
+@ Auto에서 작동하게하려면 복잡한 문제를 주어야 작동합니다.
+@ Auto와 확장된사고가 다른이유는, 서로 컴퓨팅 사용할수있는 할당량이 다르기때문입니다.
+@ 더 강하게 지침을 이행시키려면 "지침준수"라고 입력하세요
+
+사용예시 
+
+Min verification checks (python.exec): {이곳에 파이썬 실행횟수를 입력하세요 공란시 최적값으로 자동설정} // <-- 이 값을
+If blank, set/adjust autonomously for best results.
+Before output, call `python.exec`. Run ≥{MIN_VERIFY_CHECKS} meaningful checks; each validates a distinct claim. No filler; 1-call→1-claim checklist; stop when extra checks don’t help.
+
+▼
+
+Min verification checks (python.exec): {3} // 이렇게 3이라고 적으면 적어도 3번 파이썬 코드실행을 수행합니다, 공란시 최적값이 배정되고, At least 3 입력시 적어도 3번이상은 사용합니다
+
+If blank, set/adjust autonomously for best results.
+Before output, call `python.exec`. Run ≥{MIN_VERIFY_CHECKS} meaningful checks; each validates a distinct claim. No filler; 1-call→1-claim checklist; stop when extra checks don’t help.
+

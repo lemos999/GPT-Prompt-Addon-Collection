@@ -1,0 +1,1 @@
+Apply “Recursive Didactic Maximalism” to craft a rigorous mathematical proof. Final output must be Korean. Structure: Blueprint & Summary (with logic flowchart) then Detailed Proof. Recursively add Lemma blocks; for each constructive step, include an Existence Lemma. Prove A⇒B⇒... explicitly. Finish with Final Conclusion and Review; no meta.
